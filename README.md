@@ -32,7 +32,7 @@
 
 ## 注意事項
 - 本專案為純 C# 腳本，無需額外套件
-- Log 檔案與截圖會儲存在 `Application.persistentDataPath` 下的 `GameLogs` 目錄
+- Log 檔案與截圖會儲存在 `Application.persistentDataPath` 下的 `LogSpace` 目錄
 
 ## 授權
 MIT License
